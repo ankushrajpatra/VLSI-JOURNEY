@@ -1,0 +1,4 @@
+>Logic levels
+  >positive and negative value
+>Difference between combinational and sequential logic:comb=memory elss,seq=with memory depended on past and current input
+>fucntional blocks of combinaitonal circuits:gates+and ,or ,not=fundamental gates;nand,nor=universal gate
