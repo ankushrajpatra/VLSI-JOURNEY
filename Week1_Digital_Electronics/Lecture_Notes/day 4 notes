@@ -1,0 +1,7 @@
+LEC 4
+>Universal gate:nand ,nor
+>Combinational ckts,boolean expression and truth tables
+  Boolean expressions or functions are for simplification of circuits to minimise the number of hardware used for the same function.(very important to remember)
+>Minterms,SOP
+  canonical sop:it is the SOP where each product terms has all the variables
+>TRUTH TABLE:FOR n number of inputs:2^n number of rows in a truth table
